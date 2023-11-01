@@ -12,3 +12,13 @@ SGM Games is a free and open source hub for games. Designed to be unblocked and 
 
 ----
 ## Official Links
+* https://sgmg.herokuapp.com
+* https://sgmgames.github.io
+* https://sgmgames.herokuapp.com
+* https://sgm-games.herokuapp.com
+
+Dont worry if they get blocked. There are tons of [community maintained mirrors](./MIRRORS.md).
+
+---
+## Join the rebellion
+SGM Games
